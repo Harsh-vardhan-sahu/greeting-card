@@ -1,2 +1,2 @@
 # greeting-card
- i this project i use python language
+this greeting card was created by using python language .
